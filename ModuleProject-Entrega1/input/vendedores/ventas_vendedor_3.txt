@@ -1,0 +1,5 @@
+Producto 1 - Unidades: 5
+Producto 2 - Unidades: 10
+Producto 3 - Unidades: 10
+Producto 4 - Unidades: 1
+Producto 5 - Unidades: 2
